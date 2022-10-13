@@ -1,0 +1,4 @@
+[submodule "kelvzxu/addons-custom"]
+	path = kelvzxu/addons-custom
+	url = git@github.com:kelvzxu/addons-custom.git
+	branch = 15.0
